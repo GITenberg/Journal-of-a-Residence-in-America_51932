@@ -1,5 +1,8 @@
 _repo: Journal-of-a-Residence-in-America_51932
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 51932-h/images/cover.jpg
 creator:
   author:
     agent_name: Kemble, Fanny
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/26319
     wikipedia: http://en.wikipedia.org/wiki/Fanny_Kemble
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51932#Journal-of-a-Residence-in-America
 gutenberg_issued: '2016-05-02'
 gutenberg_type: Text
 identifiers:
